@@ -1,7 +1,6 @@
-Name: Vaibhav Mishra
-Semseter: 5 Section: A
-
-Aim: Demonstrate the use of “map” function in Golang. The function should implement minimum three different operations.
+    Name: Vaibhav Mishra 
+    Semseter: 5 Section: A
+    Aim: Demonstrate the use of “map” function in Golang. The function should implement minimum three different operations.
 
 # Go-Assignment
 Semester 5 (Design and Analysis of Alogrithms)
